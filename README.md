@@ -1,1 +1,3 @@
 # assignment-1-ad-resit
+
+The assignment involved cleaning and analyzing multiple .txt files using NLP techniques like tokenization, stemming, and POS tagging. Articles and pronouns were the most common words across all files, with the Porter stemmer retaining more nouns than Lancaster. Special characters were hard to fully remove. Proper nouns and verbs appeared less than expected. Linguistic patterns were similar across English, Dutch, and German. NER analysis showed perfect recall for all files, but precision and F1 scores varied—File 4 performed best, while File 2 had the lowest precision. Overall, automated NER was effective but still benefits from human verification.
